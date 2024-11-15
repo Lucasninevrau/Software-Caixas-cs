@@ -6,5 +6,5 @@ const CsAPI = axios.create({
         language: 'pt-BR'
     }
 })
-
+// api das caixas
 export default CsAPI
